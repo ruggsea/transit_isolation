@@ -4,11 +4,16 @@ This repository explores ways to calculate time distances to points of interest 
 
 ## Getting Started
 
-To get started with this project, you will need to have the following:
+To get started with this project, follow these steps:
 
-- Jupyter Notebook
-- Python 3.x
-- Required Python packages (specified in `requirements.txt`)
+1. Ensure you have Jupyter Notebook and Python 3.x installed on your system.
+2. Clone this repository to your local machine by running the following command in your terminal:
+    ```
+    git clone https://github.com/ruggsea/transit_isolation.git
+    ```
+3. Install the required Python packages by running `pip install -r requirements.txt`.
+4. Open the `transit_isolation.ipynb` notebook in Jupyter Notebook.
+5. Run the notebook. 
 
 ## Data Sources
 

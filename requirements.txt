@@ -1,0 +1,11 @@
+geopandas
+pandas
+numpy
+shapely
+partridge
+pyproj
+tqdm
+osmnx
+h3
+networkx
+matplotlib
