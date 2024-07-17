@@ -23,7 +23,6 @@ To get started with this project, follow these steps:
 ## Project Structure
 
 - `transit_isolation.ipynb`: This is the main Jupyter Notebook containing the code for calculating time distances to hospitals in Rome.
-- `data/`: This directory contains the necessary data files for running the notebook.
 - `rome_static_gtfs/`: This directory contains the GTFS data for Rome's public transportation system.
 - `municipi.geojson`: This file contains the shapefile data for the municipi (city districts) in Rome.
 
